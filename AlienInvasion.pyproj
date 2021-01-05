@@ -21,11 +21,11 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="AlienInvasion.py" />
-    <Compile Include="class1.py">
+    <Compile Include="alien.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="class2.py">
+    <Compile Include="AlienInvasion.py" />
+    <Compile Include="bullet.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="game_functions.py">
